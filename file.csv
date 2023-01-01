@@ -1,0 +1,5 @@
+card no,name,accpunt no,balance,A/C type,pin,access
+121,rushi,123456,30000,current,1234,block
+122,amar,123457,40000,saving,1235,unblock
+123,vishal,123458,25000,current,1236,unblock
+124,sopan,123459,20000,saving,1237,unblock
