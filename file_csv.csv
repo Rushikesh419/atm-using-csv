@@ -1,0 +1,46 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "mount_file_id": "1sKHcg1T8Uy7SwUgsvcWCcQPgPAUfNYYp",
+      "authorship_tag": "ABX9TyPPKEUCicSHIYuDOSYuxtOb",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Rushikesh419/atm-using-csv/blob/main/file_csv.csv\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "GCq4EHpOfIEv"
+      },
+      "outputs": [],
+      "source": [
+        "card no,name,accpunt no,balance,A/C type,pin,access\n",
+        "121,rushi,123456,30000,current,1234,block\n",
+        "122,amar,123457,40000,saving,1235,unblock\n",
+        "123,vishal,123458,25000,current,1236,unblock\n",
+        "124,sopan,123459,20000,saving,1237,unblock"
+      ]
+    }
+  ]
+}
