@@ -5,7 +5,7 @@
     "colab": {
       "provenance": [],
       "mount_file_id": "1sKHcg1T8Uy7SwUgsvcWCcQPgPAUfNYYp",
-      "authorship_tag": "ABX9TyPPKEUCicSHIYuDOSYuxtOb",
+      "authorship_tag": "ABX9TyMjEF6soP3wfL11e/vxG+9h",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -29,18 +29,34 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "source": [],
       "metadata": {
-        "id": "GCq4EHpOfIEv"
+        "id": "2y5E71iYh719"
       },
-      "outputs": [],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
       "source": [
         "card no,name,accpunt no,balance,A/C type,pin,access\n",
         "121,rushi,123456,30000,current,1234,block\n",
         "122,amar,123457,40000,saving,1235,unblock\n",
         "123,vishal,123458,25000,current,1236,unblock\n",
         "124,sopan,123459,20000,saving,1237,unblock"
-      ]
+      ],
+      "metadata": {
+        "id": "kJyzujHVh9I7"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "Eg3Gmdkah8Qx"
+      }
     }
   ]
 }
